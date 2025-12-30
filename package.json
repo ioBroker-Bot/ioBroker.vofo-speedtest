@@ -2,12 +2,10 @@
   "name": "iobroker.vofo-speedtest",
   "version": "2.0.1",
   "description": "Speedtest of Vodafone.de",
-  "author": {
-    "name": "Peter Baumert",
-    "email": "ioBroker.vodafone-speedtest@outlook.com"
-  },
+  "author": "Peter Baumert <ioBroker.vodafone-speedtest@outlook.com>",
   "contributors": [
-    "mcm1957 <mcm57@gmx.at>"
+    "mcm1957 <mcm57@gmx.at>",
+    "iobroker-community-adapters <iobroker-community-adapters@gmx.de>"
   ],
   "homepage": "https://github.com/iobroker-community-adapters/ioBroker.vofo-speedtest",
   "license": "MIT",
